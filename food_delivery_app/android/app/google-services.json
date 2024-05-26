@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603581841205",
+    "project_id": "food-delivery-app-a4844",
+    "storage_bucket": "food-delivery-app-a4844.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603581841205:android:66a2a81ded2247fec2d67c",
+        "android_client_info": {
+          "package_name": "com.snow.app.food_delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZssm_5L8-cX8ZRBA9RoWJk1MmzkMQynY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
